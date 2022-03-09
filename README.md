@@ -1,5 +1,3 @@
-# magang
-Compeny Profile 
-PT. Graha Kencana Adhiperkasa Raya
+# Magang
+Compeny Profile PT. Graha Kencana Adhiperkasa Raya
 
-*our team
