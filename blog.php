@@ -48,18 +48,17 @@ include "header.php";
 
   <div class="page-section">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-8">
+        <div class="col-lg-12">
           <div class="row">
             <div class="col-sm-6 py-3">
               <div class="card-blog">
                 <div class="header">
-                  <a href="blog-details" class="post-thumb">
+                  <a href="#" class="post-thumb">
                     <img src="./assets/img/3 menara.jpg" alt="">
                   </a>
                 </div>
                 <div class="body">
-                  <h5 class="post-title"><a href="blog-details.html">Pembangunan Monumen Tiga Menara</a></h5>
+                  <h5 class="post-title"><a href="blog-details.php">Pembangunan Monumen Tiga Menara</a></h5>
                   <div class="site-info">
                   </div>
                 </div>
@@ -69,27 +68,12 @@ include "header.php";
             <div class="col-sm-6 py-3">
               <div class="card-blog">
                 <div class="header">
-                  <a href="blog-details" class="post-thumb">
+                  <a href="#" class="post-thumb">
                     <img src="./assets/img/3 menara.jpg" alt="">
                   </a>
                 </div>
                 <div class="body">
-                  <h5 class="post-title"><a href="blog-details.html">Pembangunan Monumen Tiga Menara</a></h5>
-                  <div class="site-info">
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-sm-6 py-3">
-              <div class="card-blog">
-                <div class="header">
-                  <a href="blog-details" class="post-thumb">
-                    <img src="./assets/img/3 menara.jpg" alt="">
-                  </a>
-                </div>
-                <div class="body">
-                  <h5 class="post-title"><a href="blog-details.html">Pembangunan Monumen Tiga Menara</a></h5>
+                  <h5 class="post-title"><a href="blog-details.php">Pembangunan Monumen Tiga Menara</a></h5>
                   <div class="site-info">
                   </div>
                 </div>
@@ -98,12 +82,26 @@ include "header.php";
             <div class="col-sm-6 py-3">
               <div class="card-blog">
                 <div class="header">
-                  <a href="blog-details" class="post-thumb">
+                  <a href="#" class="post-thumb">
                     <img src="./assets/img/3 menara.jpg" alt="">
                   </a>
                 </div>
                 <div class="body">
-                  <h5 class="post-title"><a href="blog-details.html">Pembangunan Monumen Tiga Menara</a></h5>
+                  <h5 class="post-title"><a href="blog-details.php">Pembangunan Monumen Tiga Menara</a></h5>
+                  <div class="site-info">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 py-3">
+              <div class="card-blog">
+                <div class="header">
+                  <a href="#" class="post-thumb">
+                    <img src="./assets/img/3 menara.jpg" alt="">
+                  </a>
+                </div>
+                <div class="body">
+                  <h5 class="post-title"><a href="blog-details.php">Pembangunan Monumen Tiga Menara</a></h5>
                   <div class="site-info">
                   </div>
                 </div>
@@ -123,7 +121,9 @@ include "header.php";
                   <li class="page-item">
                     <a class="page-link" href="#">2</a>
                   </li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item">
+                    <a class="page-link" href="#">3</a>
+                  </li>
                   <li class="page-item">
                     <a class="page-link" href="#">Next</a>
                   </li>
@@ -132,55 +132,8 @@ include "header.php";
             </div>
           </div> <!-- .row -->
         </div>
-        <div class="col-lg-4">
-          <div class="sidebar">
-            <div class="sidebar-block">
-              <h3 class="sidebar-title">Recent Blog</h3>
-              <div class="blog-item">
-                <a class="post-thumb" href="">
-                  <img src="./assets/img/blog/blog_1.jpg" alt="">
-                </a>
-                <div class="content">
-                  <h5 class="post-title"><a href="#">Even the all-powerful Pointing has no control</a></h5>
-                  <div class="meta">
-                    <a href="#"><span class="mai-calendar"></span> July 12, 2018</a>
-                    <a href="#"><span class="mai-person"></span> Admin</a>
-                    <a href="#"><span class="mai-chatbubbles"></span> 19</a>
-                  </div>
-                </div>
-              </div>
-              <div class="blog-item">
-                <a class="post-thumb" href="">
-                  <img src="./assets/img/blog/blog_2.jpg" alt="">
-                </a>
-                <div class="content">
-                  <h5 class="post-title"><a href="#">Even the all-powerful Pointing has no control</a></h5>
-                  <div class="meta">
-                    <a href="#"><span class="mai-calendar"></span> July 12, 2018</a>
-                    <a href="#"><span class="mai-person"></span> Admin</a>
-                    <a href="#"><span class="mai-chatbubbles"></span> 19</a>
-                  </div>
-                </div>
-              </div>
-              <div class="blog-item">
-                <a class="post-thumb" href="">
-                  <img src="./assets/img/blog/blog_3.jpg" alt="">
-                </a>
-                <div class="content">
-                  <h5 class="post-title"><a href="#">Even the all-powerful Pointing has no control</a></h5>
-                  <div class="meta">
-                    <a href="#"><span class="mai-calendar"></span> July 12, 2018</a>
-                    <a href="#"><span class="mai-person"></span> Admin</a>
-                    <a href="#"><span class="mai-chatbubbles"></span> 19</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            
-          </div>
-        </div> 
-      </div> <!-- .row -->
+        
+      
     </div> <!-- .container -->
   </div> <!-- .page-section -->
 
