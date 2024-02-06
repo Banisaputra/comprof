@@ -1,3 +1,3 @@
 # Magang
-Compeny Profile PT. Graha Kencana Adhiperkasa Raya
+Company Profile PT. Graha Kencana Adhiperkasa Raya (intership project)
 
